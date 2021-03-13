@@ -6,7 +6,7 @@
 
 ** Brad Traversy Video Doc: https://www.youtube.com/watch?v=Zxf1mnP5zcw&t=736s
 
-##Some company that provide map Solution
+## Some company that provide map Solution
 
 1. Google Map
 2. Mapbox
